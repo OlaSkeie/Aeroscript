@@ -1,0 +1,5 @@
+TakeOffLand {
+  ascend by 20
+  on low battery -> EmergencyLanding
+  move to 30
+  } -> ScanArea

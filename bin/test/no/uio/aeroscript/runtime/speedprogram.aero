@@ -1,0 +1,4 @@
+ScanArea {
+    move to point (100, 100) at speed point (25, 25)
+    on low battery -> EmergencyLanding
+    } -> EndMission

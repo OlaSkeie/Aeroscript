@@ -1,0 +1,5 @@
+Explore {
+    move to point (random[0, point (10, 15) ], random[0, random]) at speed 10
+    on low battery -> EmergencyLanding
+    on message [end_tour] -> ReturnToBase
+    }
